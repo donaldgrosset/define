@@ -1,0 +1,1 @@
+Cox extended model for survival given non-proportionality of hazard ratios over 21 year follow-up interval. This extended model creates 3 time partitions of 7 years to allow examination of changes in HR over time. 
